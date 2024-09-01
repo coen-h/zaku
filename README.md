@@ -1,2 +1,3 @@
 # zaku
-fully ad-free anime streaming
+
+future anime site
